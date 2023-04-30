@@ -1,0 +1,420 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.banner{
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+.banner1{
+    
+
+}
+.banner2{
+width: 100%;
+height: 100%px;
+background-color: whitesmoke;
+background-image: url(./section1-image.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.banner2 .banner1{
+    padding-left: 350px;
+    padding-top: 150px;
+    font-size: larger;
+}
+.container{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+    
+}
+.container1{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.container2{
+    width: 28%;
+    height: 100%;
+    background-color: white;
+}
+#img1{
+    width: 100%;
+    height: 300px;
+    padding-top: 100px;
+}
+.containertext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+
+.card{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+}
+.card1{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.card2{
+    width: 28%;
+    height: 100%;
+    background-color: white;
+}
+#img2{
+    width: 100%;
+    height: 300px;
+    padding-top: 100px;
+}
+.cardtext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+.mount{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+}
+.mount1{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.mount2{
+    width: 28%;
+    height: 100%;
+    background-color: white;
+}
+#img3{
+    width: 100%;
+    height: 300px;
+    padding-top: 100px;
+}
+.mounttext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+.mason{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+}
+.mason1{
+    width: 49%;
+    height: 100%;
+    background-color: white;
+}
+
+#img4{
+    width: 50%;
+    height: 300px;
+    padding-top: 100px;
+}
+.masontext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+.felix{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+}
+.felix1{
+    width: 49%;
+    height: 100%;
+    background-color: white;
+}
+
+#img5{
+    width: 50%;
+    height: 300px;
+    padding-top: 100px;
+}
+.felixtext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+.silva{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+}
+.silva1{
+    width: 49%;
+    height: 100%;
+    background-color: white;
+}
+
+#img6{
+    width: 50%;
+    height: 300px;
+    padding-top: 100px;
+}
+.silvatext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+
+
+.kepa{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+
+}
+.kepa1{
+    width: 24%;
+    height: 100%;
+    background-color: white;
+}
+
+#img7{
+    width: 50%;
+    height: 300px;
+    padding-top: 100px;
+}
+.kepatext{
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: larger;
+}
+.kepatext2{
+height: 80px;
+padding-top:230px ;
+padding-left: 70px;
+font-size: larger;
+font-weight: bold;
+}
+ 
+.reece{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    }
+    .reece5{
+    width: 20%;
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding-top: 20px;
+    margin-top: 70px;
+    
+    }
+    .facebook{
+        border: 2px solid white;
+        border-radius: 50px;
+        background-color: white;
+    
+    }
+    .youtube{
+        border: 2px solid white;
+        border-radius: 50px;
+        background-color: white;
+    }
+    .twitter{
+        border: 2px solid white;
+        border-radius: 50px;
+        background-color: white;
+    }
+    .instagram{
+        border: 2px solid white;
+        border-radius: 50px;
+        background-color: white;
+        
+    }
+    #img22{
+        width: 50%;
+        height: 80%;
+    }
+    
+.wearable{
+width: 100%;
+height: 70px;
+background-color: whitesmoke;
+}
+.wearable11{
+    width: 70px;
+    border: 3px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+.wearable1{
+    padding-left: 45%;
+    padding-top: 15px;
+}
+
+
+
+.vehicle{
+    width: 100%;
+    height: 70px;
+    background-color: whitesmoke;
+    }
+    .vehicle11{
+        width: 70px;
+        border: 3px solid black;
+        background-color: black;
+        color: white;
+        border-radius: 30px;
+        padding-left: 10px;
+    }
+    
+    .vehicle1{
+        padding-left: 45%;
+        padding-top: 15px;
+    }
+
+
+
+
+    .office{
+     width: 100%;
+     height: 70px;
+     background-color: whitesmoke;
+    }
+        .office11{
+            width: 70px;
+            border: 3px solid black;
+            background-color: black;
+            color: white;
+            border-radius: 30px;
+            padding-left: 10px;
+        }
+        
+        .office1{
+            padding-left: 45%;
+            padding-top: 15px;
+        }
+
+
+        .personalcare{
+            width: 100%;
+            height: 70px;
+            background-color: whitesmoke;
+            }
+            .personalcare11{
+                width: 70px;
+                border: 3px solid black;
+                background-color: black;
+                color: white;
+                border-radius: 30px;
+                padding-left: 10px;
+            }
+            
+            .personalcare1{
+                padding-left: 45%;
+                padding-top: 15px;
+            }
+
+
+
+            .sport{
+                width: 100%;
+                height: 70px;
+                background-color: whitesmoke;
+                }
+                .sport11{
+                    width: 70px;
+                    border: 3px solid black;
+                    background-color: black;
+                    color: white;
+                    border-radius: 30px;
+                    padding-left: 10px;
+                }
+                
+                .sport1{
+                    padding-left: 45%;
+                    padding-top: 15px;
+                }
+
+
+                .accessories{
+                    width: 100%;
+                    height: 70px;
+                    background-color: whitesmoke;
+                    }
+                        
+                    .accessories11{
+                        width: 70px;
+                        border: 3px solid black;
+                        background-color: black;
+                        color: white;
+                        border-radius: 30px;
+                        padding-left: 10px;
+                    }
+                    
+                    .accessories1{
+                        padding-left: 45%;
+                        padding-top: 15px;
+                    }
+    
+.space{
+    width: 100%;
+    height: 10px;
+    background-color: whitesmoke;
+}
+
+p{
+    font-size: small;
+}
+
+
